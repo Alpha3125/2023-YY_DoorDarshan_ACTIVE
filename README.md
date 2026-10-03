@@ -53,7 +53,7 @@ A python file which always runs on startup can act as the central unit which int
 ![Circuitry](https://github.com/rtcniser/2023-YY_DoorDarshan_ACTIVE/blob/main/Photos/DD_labelled.jpg)
 Some modules are not rigorously labelled since they are subject to replacement. It's highly important that the person maintaining the system takes upon initiative to conceptually understand its working.
 ![Labelled Circuitry](https://github.com/rtcniser/2023-YY_DoorDarshan_ACTIVE/blob/main/Photos/circuit_diagram.jpg)
-_There is also chances for minor mistakes!_
+_Please excuse minor mistakes in the circuit diagram! Made at draw.io_
 ## Execution Flow
 ![Execution Flow](https://github.com/rtcniser/2023-YY_DoorDarshan_ACTIVE/blob/main/Photos/execution_flow_DD.drawio.svg)
 ## Directory Tree
